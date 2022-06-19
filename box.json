@@ -1,5 +1,1 @@
-{
-  "infura": "29cdd9a352be41cfb213ababd358320b",
-  "network": "main",
-  "contract": "0xFFE0498c26a8386338c46A8325f9d3562f90Ad0e"
-}
+{"contract":"0xFFE0498c26a8386338c46A8325f9d3562f90Ad0e","network":"main","infura":"29cdd9a352be41cfb213ababd358320b"}

@@ -1,0 +1,20 @@
+body {
+  background: background-image: url(pagebackground.JPEG);
+  color: white;
+  background-size: cover;
+}
+h1 a {
+  color: white;
+}
+.line .b {
+  border-left: 10px solid white;
+}
+.line a {
+  color: white; 
+}
+button, a.btn, .console a.token {
+  background: rgba(0,0,0,0.1);
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+}

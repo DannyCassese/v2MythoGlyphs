@@ -1,0 +1,41 @@
+{
+  "https://ipfs.io/ipfs/bafkreifhm53c6ns6nmhtqv5fel2n2fs4gqnjijdwbh4prukh4gdtnbcp3e": {
+    "addresses": [
+      "0xf24D9E8Cf1d9b4F63be53d86cf5D6DC1D5aa3b88",
+      "0xe0F368E3ef1e1C22a9B609FF2A0B88156F96B11F"
+    ]
+  },
+  "https://ipfs.io/ipfs/bafkreiaiyyfbqkws7xkyg57jbtv35b2bboiobxhipz27f7iwku52oy4vve": {
+    "addresses": [
+      "0xC9c32E67102040B3529671D7aa36dF909d2dB951",
+      "0xd175467a56776fe8f7195d866d269dfda0b4607a",
+      "0x61b262695b5637a5367a153ed4168d2689f41bbe",
+      "0x13f4691f0084e6d1e595e43a66ce50dff5559d44",
+      "0x4b237f4fa9Be8FAbF18068be376d72C7445ed462",
+      "0xFbf8AE69b25542aC6833e2DE631E7B082Ffab1f5",
+      "0x0fb831ca95054d3164ca852a9d1454629c4e6385",
+      "0xe0F368E3ef1e1C22a9B609FF2A0B88156F96B11F"
+    ]
+  },
+  "https://ipfs.io/ipfs/bafkreids33pkaae33mp7m2hzia4opgkcvbgal7ukspjuumnbvqbrafrzi4": {
+    "addresses": [
+      "0xc9c32e67102040b3529671d7aa36df909d2db951",
+      "0x1cd434f5411e2b13755b6340f4ef7b209cd2aa41",
+      "0xf4140f2721f5fd76ea2a3b6864ab49e0fba1f7d0",
+      "0xd175467a56776fe8f7195d866d269dfda0b4607a",
+      "0x67a68f9112127f47ce39eece1ff331982ae3e7d1",
+      "0x61b262695b5637a5367a153ed4168d2689f41bbe",
+      "0x3d2370b6705044b71a2a464c1702f14fc412fb58",
+      "0xbcb75e234257c5f544ce7c81905c339058345ba9",
+      "0x97241338ac056dadc82faf5384ebf016c2a0e65d",
+      "0x30f6f4d29b52dd7dd69ae6b8cac38ca7d530d6ba",
+      "0x61960c8fc9f805f49d6282ad9dd953989faae775",
+      "0x4b237f4fa9be8fabf18068be376d72c7445ed462",
+      "0xfbf8ae69b25542ac6833e2de631e7b082ffab1f5"
+    ]
+  },
+  "https://ipfs.io/ipfs/bafkreid5lp7v4rvsqlzlpuc43ao2mippvfaaa3fgp2uxw5ozrliezktfmm": {
+    "image": "ipfs://bafybeidgmpfzzhw2n5bf3rf6gvswwckickrbpc3l4bkhfijzvzuptlo7ke"
+  },
+  "https://ipfs.io/ipfs/bafybeidgmpfzzhw2n5bf3rf6gvswwckickrbpc3l4bkhfijzvzuptlo7ke": "bafybeidgmpfzzhw2n5bf3rf6gvswwckickrbpc3l4bkhfijzvzuptlo7ke"
+}
